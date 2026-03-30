@@ -3,7 +3,9 @@
 
 const styles = {
   screenPadding: 16,
+  screenPaddingLg: 28,
   borderRadius: 10,
+  borderRadiusLg: 18,
 };
 
 export default styles;
